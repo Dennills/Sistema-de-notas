@@ -14,7 +14,7 @@
     "bootstrap": "^5.3.6",
     "chart.js": "^4.4.9",
     "file-saver": "^2.0.5",
-    "firebase": "^11.7.3",
+    "firebase": "^11.9.1",
     "inter-ui": "^4.1.0",
     "papaparse": "^5.5.2",
     "react": "^19.1.0",
